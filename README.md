@@ -11,7 +11,8 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/stylesheet.css" rel="stylesheet">
 </head>
-<body>
+<body> 
+    <p>QQ:2158394994</p>
     <div id="particles-js"></div>
 
     <div class="content text-md-center">
@@ -21,7 +22,7 @@
                 <h1 class="time"></h1>
                 <h4 class="seconds">60s</h4>
             </div>
-            <p>QQ:2158394994</p>
+           
         </div>
 
     </div>
