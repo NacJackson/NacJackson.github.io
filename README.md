@@ -1,4 +1,5 @@
 # .github.io
+# QQ:2158394994
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +13,7 @@
     <link href="assets/css/stylesheet.css" rel="stylesheet">
 </head>
 <body> 
-    <p>QQ:2158394994</p>
+    
     <div id="particles-js"></div>
 
     <div class="content text-md-center">
