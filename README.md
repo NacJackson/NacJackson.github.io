@@ -7,7 +7,7 @@
 ## Education
 
 <!-- .slide vertical=true -->
--<a href='http://www.cqcet.com'>重庆电子工程职业学院在读</a><br>
+-<a href='https://cqcet.edu.cn/'>重庆电子工程职业学院在读</a><br>
 -2020年入校<br>
 -现在<a href='http://www.chanbey.com'>千贝软件</a>工作室15-205<br>
 
