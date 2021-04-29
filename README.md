@@ -12,3 +12,7 @@
 -现在<a href='http://www.chanbey.com'>千贝软件</a>工作室15-205<br>
 
 <!-- .slide -->
+## 一个问卷
+<!-- .slide vertical=true -->
+-<img href='https://qr.wjx.cn/handler/qrcode.ashx?chl=https%3a%2f%2fwww.wjx.cn%2fvm%2fOi8rP5V.aspx&chs=120x120&sign=465e03464d22891a61000c00c129dc9053e38d26'>这是一个关于<a href='https://www.wjx.cn/vj/Oi8rP5V.aspx'>电子桌牌的问卷</a>
+<!-- .slide -->
