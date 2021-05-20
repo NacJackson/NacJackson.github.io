@@ -24,3 +24,5 @@ School of Data and Computer Science, CQCET, Chongqing
 ## Blogs
 
 <!-- .slide vertical=true -->
+- 这是一个博客
+
