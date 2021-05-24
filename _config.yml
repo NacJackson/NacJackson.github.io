@@ -152,11 +152,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F038c7f558aa4ab9a801219c77b0d17d.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1624468916&t=ac39d88e5e89fc1a5cdec654d5e6f2af);
+                  background-image: url(https://img0.baidu.com/it/u=1316704868,3406617080&fm=26&fmt=auto&gp=0.jpg);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F038c7f558aa4ab9a801219c77b0d17d.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1624468916&t=ac39d88e5e89fc1a5cdec654d5e6f2af);
+                    background-image: url(https://img0.baidu.com/it/u=1316704868,3406617080&fm=26&fmt=auto&gp=0.jpg);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
